@@ -1,5 +1,5 @@
 '''
-To use this code, you will first need to install the three packages being imported below using pip or a manual install method.
+TO use this code, you will first need to install the three packages being imported below using pip or a manual install method.
 '''
 from bs4 import BeautifulSoup
 import requests
